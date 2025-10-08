@@ -1,4 +1,4 @@
-# 📊 Streamlit ML Trainer
+# 📊 Streamlit ML model Trainer
 
 An interactive **Streamlit app** for training and evaluating Machine Learning models on your own CSV datasets. Supports both **classification** and **regression** tasks.
 
