@@ -45,4 +45,4 @@ streamlit run app_ml_model.py
 2. Select the target column.
 3. Choose task type (Classification or Regression).
 4. Pick a model.
-5. C
+
